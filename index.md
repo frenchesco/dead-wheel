@@ -27,4 +27,5 @@ Helpful Channels:
 - [The Complete History of Asphalt 9: Legends](https://docs.google.com/spreadsheets/d/1O10MLoOS6LRw-u0UpCsO9gBhcNHIX1Wjda8MS8LPJC0/edit) (by [/u/_eric_g](https://www.reddit.com/user/_erik_g/))
 - [Pro Tips for Beginners](https://www.reddit.com/r/Asphalt9/comments/gzljai/pro_tips_for_beginners/) (by [/u/SpaceGenesis](https://www.reddit.com/u/SpaceGenesis/))
 - [Simple Beginner's Guide to Packs and Shop Deals](https://www.reddit.com/r/Asphalt9/comments/lubxi3/simple_beginners_guide_to_packs_and_shop_deals/) (by [/u/Tangram3448_](https://www.reddit.com/u/Tangram3448_/))
+- [Asphalt 9 DB](https://www.reddit.com/r/Asphalt9/comments/y7wqhm/my_asphalt_9_database_shared_on_google_drive_incl/) - Car Stats, List of Career Races, Car Hunts (by [/u/sreglov](https://www.reddit.com/user/sreglov/))
 - [Best Cars from Each Category](https://www.reddit.com/r/Asphalt9/comments/tt05gy/new_player_is_there_a_tier_list_of_best_cars_from/) (comment by [/u/sreglov/](https://www.reddit.com/u/sreglov/))
