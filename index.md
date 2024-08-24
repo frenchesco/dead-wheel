@@ -16,6 +16,8 @@ Thanks to [/u/_erik_g](https://www.reddit.com/user/_erik_g/) on Reddit, you can 
 ### Drive Syndicate
 
 - [Marc's Drive Syndicate Spreadsheet](https://docs.google.com/spreadsheets/d/1VrsOp0_LBET4oubuGNLQyrbA1UyJ0YPEBSQQx3-Bxp8/edit)
+  - [Other Reference](https://docs.google.com/spreadsheets/d/1dFSnXqK8CSMXHSaPNMrduk5P8r0BFxywGyLEuonDQHA/edit?gid=1443129336#gid=1443129336) - Note that some of the calculations are not correct and don't give optimal SC.
+  - [Bright Sparks Reference](https://docs.google.com/spreadsheets/d/1Y_JGe_r69zeZZJtGePbKvJYKIacI_9TXBKwIVdsEASo/htmlview)
 
 ### Videos
 
