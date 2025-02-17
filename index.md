@@ -9,27 +9,37 @@ Welcome to Dead Wheel™!
 
 ### Team Cars
 
-Thanks to [/u/_erik_g](https://www.reddit.com/user/_erik_g/) on Reddit, you can [download a template to keep track of all your cars](https://www.reddit.com/r/Asphalt9/comments/u889a3/if_you_want_an_asphalt_9_spreadsheet_to_call_your/).
+Thanks to [/u/_erik_g](https://www.reddit.com/user/_erik_g/) on Reddit, you can [download a template to keep track of all your cars](https://www.reddit.com/r/Asphalt9/comments/u889a3/if_you_want_an_asphalt_9_spreadsheet_to_call_your/) (Update: Looks like original post has been deleted unfortunately, although you can base one off of mine if you like).
 
 - [Marc](https://docs.google.com/spreadsheets/d/1kVYfaFWGD7GY_2VLsWyyGLBZXhtZvIFLeiKw1SjKliU/edit)
 
 ### Drive Syndicate
 
 - [Marc's Drive Syndicate Spreadsheet](https://docs.google.com/spreadsheets/d/1VrsOp0_LBET4oubuGNLQyrbA1UyJ0YPEBSQQx3-Bxp8/edit)
-  - [Other Reference](https://docs.google.com/spreadsheets/d/1dFSnXqK8CSMXHSaPNMrduk5P8r0BFxywGyLEuonDQHA/edit?gid=1443129336#gid=1443129336) - Note that some of the calculations are not correct and don't give optimal SC.
+  - [Other Reference](https://docs.google.com/spreadsheets/d/1dFSnXqK8CSMXHSaPNMrduk5P8r0BFxywGyLEuonDQHA/edit?gid=1443129336#gid=1443129336)
   - [Bright Sparks Reference](https://docs.google.com/spreadsheets/d/1Y_JGe_r69zeZZJtGePbKvJYKIacI_9TXBKwIVdsEASo/htmlview)
 
 ### Videos
 
 Helpful Channels:
 
-- [madathanu](https://www.youtube.com/c/madathanu/featured)
-- [Nox Fury](https://www.youtube.com/channel/UC0FF-WyWwfJmn6ViQhqF6QA)
-- [GamingWihAwesome](https://www.youtube.com/c/GamingWithAwesome)
+- [Nox Fury](https://www.youtube.com/@NoxFury/videos)
+- [GamingWihAwesome](https://www.youtube.com/@GamingWithAwesome/videos)
+- [Surgical Striker](https://www.youtube.com/@SurgicalStrikerIND/videos)
+- [RedNycto](https://www.youtube.com/@RedNycto/videos) - Manual
+- [madathanu](https://www.youtube.com/@madathanu/videos) - Not really active any more
 
 ### Useful Resources
 
-- [Asphalt 9 Reddit](https://www.reddit.com/r/Asphalt9/)
+#### Official:
+
+- [Asphalt Shop](https://shop.gameloft.com/games/Asphalt_Unite) - Often has free daily gift
+- [Official Patch Notes](https://asphaltlegends.com/news/alu-patch-notes)
+
+#### Unofficial:
+
+- [Asphalt Special Event Calculator](https://alu-events.info/)
+- [Asphalt 9 Reddit](https://www.reddit.com/r/Asphalt9/) - [Wiki](https://www.reddit.com/r/Asphalt9/wiki/index/)
 - [The Complete History of Asphalt 9: Legends](https://docs.google.com/spreadsheets/d/1O10MLoOS6LRw-u0UpCsO9gBhcNHIX1Wjda8MS8LPJC0/edit) (by [/u/_eric_g](https://www.reddit.com/user/_erik_g/))
 - [Pro Tips for Beginners](https://www.reddit.com/r/Asphalt9/comments/gzljai/pro_tips_for_beginners/) (by [/u/SpaceGenesis](https://www.reddit.com/u/SpaceGenesis/))
 - [Simple Beginner's Guide to Packs and Shop Deals](https://www.reddit.com/r/Asphalt9/comments/lubxi3/simple_beginners_guide_to_packs_and_shop_deals/) (by [/u/Tangram3448\_](https://www.reddit.com/u/Tangram3448_/))
