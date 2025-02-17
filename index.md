@@ -26,7 +26,9 @@ Helpful Channels:
 - [Nox Fury](https://www.youtube.com/@NoxFury/videos)
 - [GamingWihAwesome](https://www.youtube.com/@GamingWithAwesome/videos)
 - [Surgical Striker](https://www.youtube.com/@SurgicalStrikerIND/videos)
+- [FURY DarkHyper](https://www.youtube.com/@DarkHyper/videos) - Manual
 - [RedNycto](https://www.youtube.com/@RedNycto/videos) - Manual
+- [Amogh](https://www.youtube.com/@Amogh0102/videos) - Manual
 - [madathanu](https://www.youtube.com/@madathanu/videos) - Not really active any more
 
 ### Useful Resources
