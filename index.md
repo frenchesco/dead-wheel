@@ -19,6 +19,12 @@ Thanks to [/u/_erik_g](https://www.reddit.com/user/_erik_g/) on Reddit, you can 
   - [Other Reference](https://docs.google.com/spreadsheets/d/1dFSnXqK8CSMXHSaPNMrduk5P8r0BFxywGyLEuonDQHA/edit?gid=1443129336#gid=1443129336)
   - [Bright Sparks Reference](https://docs.google.com/spreadsheets/d/1Y_JGe_r69zeZZJtGePbKvJYKIacI_9TXBKwIVdsEASo/htmlview)
 
+### Car Hunts
+
+Keep track of your progress in Car Hunts with this spreadsheet:
+
+* [Car Hunt Tracker](https://docs.google.com/spreadsheets/d/1_XvJVji6WsKgp4W0_KUxR-p2mfDiT5dZXGrxXevgDDo/edit?usp=sharing)
+
 ### Videos
 
 Helpful Channels:
