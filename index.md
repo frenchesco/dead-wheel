@@ -29,9 +29,10 @@ Keep track of your progress in Car Hunts with this spreadsheet:
 
 Helpful Channels:
 
-- [Nox Fury](https://www.youtube.com/@NoxFury/videos)
-- [GamingWihAwesome](https://www.youtube.com/@GamingWithAwesome/videos)
+
 - [Surgical Striker](https://www.youtube.com/@SurgicalStrikerIND/videos)
+- [GamingWihAwesome](https://www.youtube.com/@GamingWithAwesome/videos)
+- [Nox Fury](https://www.youtube.com/@NoxFury/videos)
 - [FURY DarkHyper](https://www.youtube.com/@DarkHyper/videos) - Manual
 - [RedNycto](https://www.youtube.com/@RedNycto/videos) - Manual
 - [Amogh](https://www.youtube.com/@Amogh0102/videos) - Manual
@@ -43,6 +44,12 @@ Helpful Channels:
 
 - [Asphalt Shop](https://shop.gameloft.com/games/Asphalt_Unite) - Often has free daily gift
 - [Official Patch Notes](https://asphaltlegends.com/news/alu-patch-notes)
+
+#### Wikis
+
+- [MEI Database](https://mei-a9.info/)
+- [Asphalt Wiki](https://asphalt.fandom.com/wiki/Asphalt_9:_Legends)
+- [Asphalt Legends Unite Database](https://asphalt9.info/)
 
 #### Unofficial:
 
