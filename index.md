@@ -43,7 +43,7 @@ Helpful Channels:
 #### Official:
 
 - [Asphalt Shop](https://shop.gameloft.com/games/Asphalt_Unite) - Often has free daily gift
-- [Official Patch Notes](https://asphaltlegends.com/news/alu-patch-notes)
+- [Official Patch Notes](https://asphaltlegendsunite.com/news)
 
 #### Wikis
 
