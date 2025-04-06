@@ -9,7 +9,7 @@ Welcome to Dead Wheel™!
 
 ### Gauntlet
 
-- [Gauntlet Spreadsheet to Record and ViewTimes for each Track](https://docs.google.com/spreadsheets/d/1BFggtxHlxkMFuKAPqM-5vN0se09wFXUTzfRV4cXpk6k/edit)
+- [Gauntlet Spreadsheet to Record and View Times for each Track](https://docs.google.com/spreadsheets/d/1BFggtxHlxkMFuKAPqM-5vN0se09wFXUTzfRV4cXpk6k/edit)
 
 ### Team Cars
 
