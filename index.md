@@ -57,7 +57,8 @@ Helpful Channels:
 
 #### Unofficial:
 
-- [Asphalt Special Event Calculator](https://alu-events.info/)
+- [ASEC Tools](https://asec.tools/) (Previously: [Asphalt Special Event Calculator](https://alu-events.info/))
+- [BOS Calculator](https://crazypann.github.io/bp-calculator/)
 - [Asphalt 9 Reddit](https://www.reddit.com/r/Asphalt9/) - [Wiki](https://www.reddit.com/r/Asphalt9/wiki/index/)
 - [The Complete History of Asphalt 9: Legends](https://docs.google.com/spreadsheets/d/1O10MLoOS6LRw-u0UpCsO9gBhcNHIX1Wjda8MS8LPJC0/edit) (by [/u/_eric_g](https://www.reddit.com/user/_erik_g/))
 - [Pro Tips for Beginners](https://www.reddit.com/r/Asphalt9/comments/gzljai/pro_tips_for_beginners/) (by [/u/SpaceGenesis](https://www.reddit.com/u/SpaceGenesis/))
