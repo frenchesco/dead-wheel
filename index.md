@@ -20,8 +20,8 @@ Thanks to [/u/_erik_g](https://www.reddit.com/user/_erik_g/) on Reddit, you can 
 ### Drive Syndicate
 
 - [Marc's Drive Syndicate Spreadsheet](https://docs.google.com/spreadsheets/d/1VrsOp0_LBET4oubuGNLQyrbA1UyJ0YPEBSQQx3-Bxp8/edit)
-  - [Good Reference](https://docs.google.com/spreadsheets/d/1dFSnXqK8CSMXHSaPNMrduk5P8r0BFxywGyLEuonDQHA/edit?gid=1015431829#gid=1015431829)
-  - [Bright Sparks Reference](https://docs.google.com/spreadsheets/d/1Y_JGe_r69zeZZJtGePbKvJYKIacI_9TXBKwIVdsEASo/htmlview)
+- [Asphalt Legends Drive Syndicate Coin Ratio - Great Reference](https://docs.google.com/spreadsheets/d/1dFSnXqK8CSMXHSaPNMrduk5P8r0BFxywGyLEuonDQHA/edit?gid=845011450#gid=845011450)
+- [Bright Sparks Reference](https://docs.google.com/spreadsheets/d/1Y_JGe_r69zeZZJtGePbKvJYKIacI_9TXBKwIVdsEASo/htmlview)
 
 ### Car Hunts
 
