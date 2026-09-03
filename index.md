@@ -34,7 +34,7 @@ Keep track of your progress in Car Hunts with this spreadsheet:
 Helpful Channels:
 
 
-- [Surgical Striker](https://www.youtube.com/@SurgicalStrikerIND/videos)
+- [Surgical Striker](https://www.youtube.com/@SurgicalStrikerINDasphalt/videos)
 - [GamingWihAwesome](https://www.youtube.com/@GamingWithAwesome/videos)
 - [Nox Fury](https://www.youtube.com/@NoxFury/videos)
 - [FURY DarkHyper](https://www.youtube.com/@DarkHyper/videos) - Manual
