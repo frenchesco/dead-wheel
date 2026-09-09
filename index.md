@@ -46,7 +46,7 @@ Helpful Channels:
 
 #### Official:
 
-- [Asphalt Shop](https://shop.gameloft.com/games/Asphalt_Unite) - Often has free daily gift
+- [Asphalt Shop](https://shop.gameloft.com/games/Asphalt_Legends) - Often has free daily gift
 - [Official Patch Notes](https://asphaltlegendsunite.com/news)
 
 #### Wikis
